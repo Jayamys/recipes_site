@@ -1,0 +1,22 @@
+/*  style sheet   */
+
+:root{
+    --dark: #0f052d; 
+    --blue: #203671;
+    --teal: #36868f;
+    --green: #5fc75d;
+}
+
+
+.whole {
+    background-color: hsl(120, 100%, 75%);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tit {
+    color: var(--dark);
+   /* background-color: black;*/
+}
+.testeroni {
+    background-color: var(--blue);
+}
